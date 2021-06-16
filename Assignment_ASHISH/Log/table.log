@@ -1,0 +1,6 @@
+[2021-06-10 10:35:48] [CONFIG ]  Entering in static member funtion : main 
+[2021-06-10 10:35:51] [INFO   ]  table requested for 3 
+[2021-06-10 10:35:51] [CONFIG ]  Entering in member funtion : printTable 
+[2021-06-10 10:35:51] [INFO   ]  Successfully printed the table !! 
+[2021-06-10 10:35:51] [CONFIG ]  Exiting member funtion : printTable 
+[2021-06-10 10:35:51] [CONFIG ]  Exiting static member funtion : main 

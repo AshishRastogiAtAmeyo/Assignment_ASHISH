@@ -1,0 +1,21 @@
+[2021-06-10 01:55:15] [CONFIG ]  Entering static member function : main 
+[2021-06-10 01:55:15] [INFO   ]  Created array of size 100 and populated it with random values 
+[2021-06-10 01:55:15] [CONFIG ]  Entering member funtion : printArrayUsingforLoop 
+[2021-06-10 01:55:15] [INFO   ]  printed array upto length 100 using for loop 
+[2021-06-10 01:55:15] [CONFIG ]  Exiting member funtion : printArrayUsingforLoop 
+[2021-06-10 01:55:15] [CONFIG ]  Entering member funtion : printArrayUsingforeachloop 
+[2021-06-10 01:55:15] [INFO   ]  printed array upto length 100 using for each loop 
+[2021-06-10 01:55:15] [CONFIG ]  Exiting member funtion : printArrayUsingforeachloop 
+[2021-06-10 01:55:15] [CONFIG ]  Exiting static member function : main 
+[2021-06-10 10:22:43] [CONFIG ]  Entering static member function : main 
+[2021-06-10 10:26:16] [INFO   ]  Created array of size 100 and populated it with random values 
+[2021-06-10 10:26:16] [CONFIG ]  Entering member funtion : printArrayUsingforLoop 
+[2021-06-16 12:51:22] [CONFIG ]  Entering static member function : main 
+[2021-06-16 12:51:23] [INFO   ]  Created array of size 100 and populated it with random values 
+[2021-06-16 12:51:23] [CONFIG ]  Entering member funtion : printArrayUsingforLoop 
+[2021-06-16 12:51:23] [INFO   ]  printed array upto length 100 using for loop 
+[2021-06-16 12:51:23] [CONFIG ]  Exiting member funtion : printArrayUsingforLoop 
+[2021-06-16 12:51:23] [CONFIG ]  Entering member funtion : printArrayUsingforeachloop 
+[2021-06-16 12:51:23] [INFO   ]  printed array upto length 100 using for each loop 
+[2021-06-16 12:51:23] [CONFIG ]  Exiting member funtion : printArrayUsingforeachloop 
+[2021-06-16 12:51:23] [CONFIG ]  Exiting static member function : main 

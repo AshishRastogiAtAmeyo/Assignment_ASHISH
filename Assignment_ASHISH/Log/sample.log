@@ -1,0 +1,16 @@
+Jun 09, 2021 7:05:10 PM com.ameyo.java.assignment.LogDemo main
+INFO: This is info message
+Jun 09, 2021 7:05:10 PM com.ameyo.java.assignment.LogDemo main
+SEVERE: This is error message
+Jun 09, 2021 7:32:39 PM com.ameyo.java.assignment.LogDemo main
+INFO: This is info message
+Jun 09, 2021 7:32:39 PM com.ameyo.java.assignment.LogDemo main
+SEVERE: This is error message
+Jun 09, 2021 7:35:42 PM com.ameyo.java.assignment.LogDemo main
+INFO: This is info message
+Jun 09, 2021 7:35:42 PM com.ameyo.java.assignment.LogDemo main
+SEVERE: This is error message
+Jun 09, 2021 7:39:35 PM com.ameyo.java.assignment.LogDemo main
+INFO: This is info message
+Jun 09, 2021 7:39:35 PM com.ameyo.java.assignment.LogDemo main
+SEVERE: This is error message

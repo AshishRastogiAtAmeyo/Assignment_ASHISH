@@ -1,0 +1,12 @@
+[2021-06-10 02:00:33] [CONFIG ]  Entering in static member funtion : main 
+[2021-06-10 02:00:33] [CONFIG ]  Entering in Constructor : FibonacciSeries 
+[2021-06-10 02:00:33] [INFO   ]  member variable number is set to 50 
+[2021-06-10 02:00:33] [CONFIG ]  Exiting Constructor : FibonacciSeries 
+[2021-06-10 02:00:33] [CONFIG ]  Enetering in member funtion: printSeriesUptoNViaIteration 
+[2021-06-10 02:00:33] [INFO   ]  Successfully print the fibonacci series with last value 55 
+[2021-06-10 02:00:33] [CONFIG ]  Exiting member funtion: printSeriesUptoNViaIteration 
+[2021-06-10 02:00:33] [CONFIG ]  Enetering in member funtion: printSeriesUptoNViaRecursion 
+[2021-06-10 02:00:33] [CONFIG ]  Calling recursive funtion : printFibbo, arguments sum = 1 prev = 0 
+[2021-06-10 02:00:33] [INFO   ]  Successfully print the fibonacci series with last value 55 
+[2021-06-10 02:00:33] [CONFIG ]  Exiting member funtion: printSeriesUptoNViaRecursion 
+[2021-06-10 02:00:33] [CONFIG ]  Exiting static member funtion : main 
